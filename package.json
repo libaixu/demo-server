@@ -20,7 +20,16 @@
   },
   "homepage": "https://github.com/libaixu/demo-server#readme",
   "dependencies": {
+    "blueimp-md5": "^2.10.0",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4",
     "koa": "^2.6.2",
-    "mongoose": "^5.4.5"
+    "mongoose": "^5.4.5",
+    "utility": "^1.15.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-loader": "^2.1.1"
   }
 }
